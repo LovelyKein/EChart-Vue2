@@ -1,0 +1,30 @@
+/* @font-face {
+  font-family: 'Optima';
+  src: url('./Optima.ttc');
+} */
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Optima','苹方-简';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: left;
+  color: #2c3e50;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  display: block;
+}
+
+canvas {
+  border-radius: 10px;
+}
